@@ -1,4 +1,4 @@
-package com.github.zhutmost.intellijsvlsp.toolWindow
+package com.zhutmost.svlsp.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.zhutmost.intellijsvlsp.MyBundle
-import com.github.zhutmost.intellijsvlsp.services.MyProjectService
+import com.zhutmost.svlsp.MyBundle
+import com.zhutmost.svlsp.services.MyProjectService
 import javax.swing.JButton
 
 

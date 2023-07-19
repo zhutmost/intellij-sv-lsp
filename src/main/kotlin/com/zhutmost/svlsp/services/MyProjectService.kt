@@ -1,9 +1,9 @@
-package com.github.zhutmost.intellijsvlsp.services
+package com.zhutmost.svlsp.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.zhutmost.intellijsvlsp.MyBundle
+import com.zhutmost.svlsp.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

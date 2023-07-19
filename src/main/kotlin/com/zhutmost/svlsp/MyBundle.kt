@@ -1,4 +1,4 @@
-package com.github.zhutmost.intellijsvlsp
+package com.zhutmost.svlsp
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
