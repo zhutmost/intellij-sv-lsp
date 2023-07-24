@@ -1,0 +1,45 @@
+<svg width="40.000000" height="40.000000" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip0_3">
+			<rect id="svg" width="40.000000" height="40.000000" fill="white"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip0_3)">
+		<mask id="mask1_78" mask-type="alpha" maskUnits="userSpaceOnUse" x="4.000000" y="4.000000" width="32.000000" height="32.000000">
+			<path id="vector 1" d="M14 14L18 14L18 26L14 26L14 14Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M22 14L26 14L26 26L22 26L22 14Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M18 14L22 14L22 18L18 18L18 14Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M18 22L22 22L22 26L18 26L18 22Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M11 7L29 7L29 11L11 11L11 7Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M11 29L29 29L29 33L11 33L11 29Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M29 11L33 11L33 29L29 29L29 11Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M7 11L11 11L11 29L7 29L7 11Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M13 4L17 4L17 7L13 7L13 4Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M23 4L27 4L27 7L23 7L23 4Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M23 33L27 33L27 36L23 36L23 33Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M13 33L17 33L17 36L13 36L13 33Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M4 23L7 23L7 27L4 27L4 23Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M4 13L7 13L7 17L4 17L4 13Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M33 23L36 23L36 27L33 27L33 23Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M33 13L36 13L36 17L33 17L33 13Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M11 33C10.2718 33 9.58873 32.8049 9.00024 32.4641C8.36938 32.1 7.87538 31.5895 7.53613 31.0001C7.17181 30.3694 6.99927 29.6802 7 29L11 29L11 33Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M11 33C10.2718 33 9.58873 32.8049 9.00024 32.4641C8.36938 32.1 7.87538 31.5895 7.53613 31.0001C7.17181 30.3694 6.99927 29.6802 7 29L11 29L11 33Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M11 33C10.2718 33 9.58873 32.8049 9.00024 32.4641C8.36938 32.1 7.87538 31.5895 7.53613 31.0001C7.17181 30.3694 6.99927 29.6802 7 29L11 29L11 33Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M33 11C33 10.2718 32.8048 9.58875 32.4641 9.00024C32.1 8.36938 31.5895 7.87537 31.0001 7.53613C30.3694 7.17181 29.6802 6.99927 29 7L29 11L33 11Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M33 29C33 29.7282 32.8048 30.4113 32.4641 30.9998C32.1 31.6306 31.5895 32.1246 31.0001 32.4639C30.3694 32.8282 29.6802 33.0007 29 33L29 29L33 29Z" fill-rule="evenodd" fill="#DF6E44"/>
+			<path id="vector 1" d="M7 11C7 10.2718 7.19515 9.58875 7.53594 9.00024C7.89999 8.36938 8.41054 7.87537 8.99992 7.53613C9.63062 7.17181 10.3198 6.99927 11 7L11 11L7 11Z" fill-rule="evenodd" fill="#DF6E44"/>
+		</mask>
+		<g mask="url(#mask1_78)">
+			<rect id="rec 6" x="-6.000000" y="19.455872" width="36.000000" height="9.000000" transform="rotate(-45 -6.000000 19.455872)" fill="#EF3333"/>
+			<rect id="rec 11" x="0.363961" y="25.819824" width="36.000000" height="4.000000" transform="rotate(-45 0.363961 25.819824)" fill="#EFA133"/>
+			<rect id="rec 14" x="8.849242" y="34.305115" width="36.000000" height="4.000000" transform="rotate(-45 8.849242 34.305115)" fill="#33AEEF"/>
+			<rect id="rec 12" x="3.192388" y="28.648254" width="36.000000" height="4.000000" transform="rotate(-45 3.192388 28.648254)" fill="#EFE233"/>
+			<rect id="rec 15" x="11.677670" y="37.133545" width="36.000000" height="4.000000" transform="rotate(-45 11.677670 37.133545)" fill="#3333EF"/>
+			<rect id="rec 13" x="6.020815" y="31.476685" width="36.000000" height="4.000000" transform="rotate(-45 6.020815 31.476685)" fill="#33EF81"/>
+			<rect id="rec 16" x="14.506096" y="39.961975" width="36.000000" height="10.000000" transform="rotate(-45 14.506096 39.961975)" fill="#BB33EF"/>
+		</g>
+	</g>
+</svg>
