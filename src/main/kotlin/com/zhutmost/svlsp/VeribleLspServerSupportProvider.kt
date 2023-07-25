@@ -6,7 +6,11 @@ import com.intellij.openapi.vfs.VirtualFile
 import com.intellij.platform.lsp.api.LspServerSupportProvider
 import com.intellij.platform.lsp.api.ProjectWideLspServerDescriptor
 
-private fun isSystemVerilogFile(file: VirtualFile) = file.extension == "sv" || file.extension == "svh"
+private fun isSystemVerilogFile(file: VirtualFile): Boolean {
+    val extMatch = file.extension == "sv" || file.extension == "svh"
+    val typeMatch = file.fileType is SystemVerilogFileType
+    return extMatch || typeMatch
+}
 
 class VeribleLspServerSupportProvider : LspServerSupportProvider {
     override fun fileOpened(project: Project, file: VirtualFile, serverStarter: LspServerSupportProvider.LspServerStarter) {

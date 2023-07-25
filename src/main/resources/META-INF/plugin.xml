@@ -6,10 +6,13 @@
 
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.modules.ultimate</depends>
-    org.jetbrains.kotlin
-
     <extensions defaultExtensionNs="com.intellij">
+        <fileType
+            name="SystemVerilog"
+            implementationClass="com.zhutmost.svlsp.SystemVerilogFileType"
+            fieldName="INSTANCE"
+            language="SystemVerilog"
+            extensions="sv"/>
         <platform.lsp.serverSupportProvider implementation="com.zhutmost.svlsp.VeribleLspServerSupportProvider"/>
-
     </extensions>
 </idea-plugin>
