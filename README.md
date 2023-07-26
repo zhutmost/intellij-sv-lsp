@@ -13,7 +13,7 @@
 - Go to Definition
 - Formatting (Coming soon)
 
-## Requirements
+## 📦 Requirements
 
 #### 1. Install Verible
 
@@ -39,7 +39,7 @@ So we provide a modified version of this plugin on [GitHub](https://github.com/z
 
 Although this plugin itself is free, the above third-party plugin and the Intellij IDEA Ultimate version are both paid, so you need to pay for them. You can [apply for free licenses](https://www.jetbrains.com/community/education/#students) for education or open-source proposes.
 
-## Configuration
+## ⚙️ Configuration
 
 Just add Verible binaries (`verible-verilog-ls`) to your PATH environment variable. Then you can use the feature of Verible in Intellij IDEA.
 
@@ -58,5 +58,14 @@ Note that the third-party plugin `studio.edaphic.sv` mentioned above also provid
 For more details of Verible, please visit:
 - [Verible Linter README](https://github.com/chipsalliance/verible/tree/master/verilog/tools/lint)
 - [Verible LSP README](https://github.com/chipsalliance/verible/tree/master/verilog/tools/ls)
+
+## ⚠️ Know Issues
+
+The LSP support by JetBrains is still in beta, so the features of this plugin may not be stable. 
+
+1. Code Completion and Quick Fix are not supported yet. You may see complaint messages from Intellij IDEA.
+2. Formatting is supported by Verible, but not supported by Intellij IDEA yet.  
+
+If you have any problems, please feel free to open an issue on [GitHub](https://github.com/zhutmost/intellij-sv-lsp/issues).
 
 <!-- Plugin description end -->
