@@ -13,7 +13,11 @@ private fun isSystemVerilogFile(file: VirtualFile): Boolean {
 }
 
 class VeribleLspServerSupportProvider : LspServerSupportProvider {
-    override fun fileOpened(project: Project, file: VirtualFile, serverStarter: LspServerSupportProvider.LspServerStarter) {
+    override fun fileOpened(
+        project: Project,
+        file: VirtualFile,
+        serverStarter: LspServerSupportProvider.LspServerStarter
+    ) {
         if (isSystemVerilogFile(file))
             serverStarter.ensureServerStarted(VeribleLspServerDescriptor(project))
     }
