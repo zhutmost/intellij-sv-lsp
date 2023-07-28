@@ -12,7 +12,7 @@
             implementationClass="com.zhutmost.svlsp.SystemVerilogFileType"
             fieldName="INSTANCE"
             language="SystemVerilog"
-            extensions="sv"/>
+            extensions="sv;svh"/>
         <platform.lsp.serverSupportProvider implementation="com.zhutmost.svlsp.VeribleLspServerSupportProvider"/>
     </extensions>
 </idea-plugin>
