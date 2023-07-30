@@ -32,11 +32,6 @@ So this plugin can only support the linting feature by now. We will support the 
 This plugin does NOT include syntax highlighting. So you may need to install another SystemVerilog plugin
 `studio.edaphic.sv` from [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/10695-systemverilog).
 
-However, this plugin is no longer maintained, and it is not compatible with the latest version of Intellij IDEA.
-So we provide a modified version of this plugin on [GitHub](https://github.com/zhutmost/intellij-sv-lsp/releases/download/v0.0.1/SystemVerilog.zip). You can choose to install this plugin manually:
-
-<kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
-
 Although this plugin itself is free, the above third-party plugin and the Intellij IDEA Ultimate version are both paid, so you need to pay for them. You can [apply for free licenses](https://www.jetbrains.com/community/education/#students) for education or open-source proposes.
 
 ## ⚙️ Configuration
@@ -62,10 +57,17 @@ For more details of Verible, please visit:
 ## ⚠️ Know Issues
 
 The LSP support by JetBrains is still in beta, so the features of this plugin may not be stable. 
-
-1. Code Completion and Quick Fix are not supported yet. You may see complaint messages from Intellij IDEA.
-2. Formatting is supported by Verible, but not supported by Intellij IDEA yet.  
-
 If you have any problems, please feel free to open an issue on [GitHub](https://github.com/zhutmost/intellij-sv-lsp/issues).
 
+1. Code Completion and Quick Fix are not supported yet. You may see complaint messages from Intellij IDEA.
+
+2. Formatting is supported by Verible, but not supported by Intellij IDEA yet.  
+
 <!-- Plugin description end -->
+
+Besides, the mentioned SystemVerilog plugin (`studio.edaphic.sv` ) is no longer maintained, and it is not compatible with the latest version of Intellij IDEA.
+So we provide a modified version of this plugin on [GitHub](https://github.com/zhutmost/intellij-sv-lsp/releases/download/v0.0.1/SystemVerilog.zip). You can choose to install this plugin manually:
+
+<kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
+
+They may obey their license (although it is not maintained), so you can choose to use it or not.
